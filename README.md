@@ -1,5 +1,3 @@
-# se-assignment-day-3-environment-setup-jerotich8
-se-assignment-day-3-environment-setup-jerotich8 created by GitHub Classroom
 # Env_Set
 
 # Environment Setup Assignment
